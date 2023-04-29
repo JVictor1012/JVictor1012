@@ -1,6 +1,6 @@
 ### Hi there! I am João Victor!
 
-- 🌱 I’m currently learning Reactjs, typescript and mobile development.
+- 🌱 I’m currently learning Reactjs, Java and mobile development.
 - 📫 How to reach me: https://www.linkedin.com/in/joão-victor-nunes-b743ba235/
 
 
