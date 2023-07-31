@@ -1,3 +1,7 @@
+<a href="https://github.com/gabriel-preti-ferraz">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120" />
+<a>
+
 ### Hi there! I am João Victor!
 
 - 💻 Fullstack Developer.
