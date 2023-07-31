@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Reactjs, Java and mobile development.
 - 📫 How to reach me:
 <br>
-<br>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nunes-b743ba235/)
 
 
