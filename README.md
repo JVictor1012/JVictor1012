@@ -1,4 +1,4 @@
-<a href="https://github.com/gabriel-preti-ferraz">
+<a href="https://github.com/jvictor1012">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120" />
 <a>
 
@@ -15,4 +15,8 @@
   <img align="center" alt="Joao-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 
   [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nunes-b743ba235/)
+
+<a href="https://github.com/jvictor1012">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5CCDEB&height=120&section=footer" />
+</a>
 
