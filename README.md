@@ -1,8 +1,7 @@
 ### Hi there! I am João Victor!
 
 - 🌱 I’m currently learning Reactjs, Java and mobile development.
-- 📫 How to reach me:
-- <p align="center">
+- 📫 How to reach me: <p align="center">
   <a href="#" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joão-victor-nunes-b743ba235" /></a>
 </p>  
